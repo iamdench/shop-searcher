@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "shop-searcher/node_modules",
+    "test", "dist", "**/*spec.ts"]
+}
